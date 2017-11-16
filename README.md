@@ -1,4 +1,5 @@
 # obj-viewer
+[![Build Status](https://travis-ci.org/justint/obj-viewer.svg?branch=master)](https://travis-ci.org/justint/obj-viewer)
 
 A simple one-file OBJ file viewer, written in C++ using OpenGL and GLUT.
 
