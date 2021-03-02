@@ -1,5 +1,5 @@
 # obj-viewer
-[![Build Status](https://travis-ci.org/justint/obj-viewer.svg?branch=master)](https://travis-ci.org/justint/obj-viewer)
+[![Build Status](https://travis-ci.org/justint/obj-viewer.svg?branch=main)](https://travis-ci.org/justint/obj-viewer)
 
 ![obj-viewer](obj-viewer.gif)
 
